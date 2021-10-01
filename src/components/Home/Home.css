@@ -1,0 +1,39 @@
+.home {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+.welcome-text,
+.discover-text {
+  font-family: "Kristi", cursive;
+  font-size: 70px;
+  text-transform: lowercase;
+  color: #cfa670;
+  margin-bottom: -12px;
+}
+.heading {
+}
+.heading-primary,
+.heading-secondary {
+  display: block;
+}
+.heading-primary {
+  font-size: 100px;
+  font-weight: 900;
+  margin-bottom: -15px;
+}
+.heading-secondary {
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  margin-bottom: 15px;
+}
+.heading-bottom {
+  font-size: 15px;
+}
+.heading-bottom-small {
+}

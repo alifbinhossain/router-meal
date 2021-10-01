@@ -1,0 +1,21 @@
+.my-nav {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+.nav-brand {
+  text-decoration: none;
+}
+.logo-text-primary {
+  font-size: 32px;
+  color: #000;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+.logo-text-secondary {
+  color: hsl(0, 0%, 30%);
+  font-size: 16px;
+  letter-spacing: 2px;
+  margin-top: -5px;
+}
+.nav-link {
+  font-weight: 700;
+}

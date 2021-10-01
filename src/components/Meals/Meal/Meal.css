@@ -1,0 +1,19 @@
+.my-card {
+  background-color: rgba(255, 255, 255, 0.85);
+  color: #777777;
+  border-radius: 4px;
+}
+.card-img {
+  object-fit: cover;
+  height: 200px;
+}
+.card-title {
+  font-size: 26px !important;
+  font-weight: 700 !important;
+}
+.food-category,
+.food-area {
+  font-size: 14px !important;
+}
+.card-text {
+}

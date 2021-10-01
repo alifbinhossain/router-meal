@@ -1,0 +1,17 @@
+.about {
+  padding: 20px;
+  padding-left: 300px;
+  line-height: 1.8;
+}
+.about .heading-primary {
+  font-size: 70px;
+}
+.aboutus-text {
+  display: block;
+  top: 0;
+  font-size: 16px;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  font-weight: 300;
+  margin-top: 20px;
+}
